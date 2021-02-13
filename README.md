@@ -1,4 +1,3 @@
-# Connect_4
- 
-Implementation of Connect 4 AI using a minimax algorithm and alpha-beta pruning. 
-Project includes a console playable Connect 4 against the AI. 
+# Connect Four AI
+
+This project is an implementation of a Connect Four AI using a minimax algorithm with alpha-beta pruning. The game playable in a representation in the console and its a head to head game against the AI.
